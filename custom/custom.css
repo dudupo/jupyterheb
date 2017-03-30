@@ -1,0 +1,12 @@
+
+.rtl {
+    text-align: right !important;
+    direction: rtl;
+    font-family: Gisha;
+}
+
+.ltr {
+    text-align: left !important;
+    direction: ltr;
+    font-family: Gisha;
+}
